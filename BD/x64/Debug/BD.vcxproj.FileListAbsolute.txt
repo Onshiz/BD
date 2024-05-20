@@ -1,0 +1,8 @@
+G:\Львовское Игра\Proj2\BD\BD\x64\Debug\BD.vcxproj.AssemblyReference.cache
+G:\Львовское Игра\Proj2\BD\BD\x64\Debug\BD.MyForm.resources
+G:\Львовское Игра\Proj2\BD\BD\x64\Debug\BD.vcxproj.GenerateResource.cache
+G:\Львовское Игра\Proj2\BD\BD\x64\Debug\BD.vcxproj.CopyComplete
+C:\Users\Сон\Desktop\BD\BD\x64\Debug\BD.vcxproj.AssemblyReference.cache
+C:\Users\Сон\Desktop\BD\BD\x64\Debug\BD.MyForm.resources
+C:\Users\Сон\Desktop\BD\BD\x64\Debug\BD.vcxproj.GenerateResource.cache
+C:\Users\Сон\Desktop\BD\BD\x64\Debug\BD.vcxproj.CopyComplete
